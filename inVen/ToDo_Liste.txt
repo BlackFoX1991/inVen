@@ -1,0 +1,17 @@
+﻿[Fertig]
+
+> Login System mit eigenen Datenbanken + Passwort
+> Inventar Liste mit jeweilig eigenen Artikeln
+> Admin Modus eingebaut
+> Suchmodus eingebaut
+
+
+[ToDo]
+
+> Admin Funktionen wie z.b. sperren von bestimmten Inventaren und Beständen
+> Neue Befehle für die Konsole
+> schneller Modus zum ausbuchen von Beständen
+> Bewegungen loggen für Alle Bestände
+
+
+Weitere Ideen folgen...
